@@ -1,0 +1,14 @@
+Pickup Spine Anims
+
+	Bow
+		pickup
+	Coin
+		coin_bronze
+		coin_gold
+		coin_silver
+	Key
+		key_bronze
+		key_gold
+		key_silver
+	Sword
+		pickup

@@ -1,0 +1,40 @@
+Prop Spine Anims - Indoor
+	Candle
+		candle_large_lit
+		candle_large_unlit
+		candle_medium_lit
+		candle_medium_unlit
+		candle_small_lit
+		candle_small_unlit
+	Chimney Indoor
+		chimney_lit
+		chimney_unlit		
+	Wall Torch
+		walltorch_lit
+		walltorch_unlit
+
+Prop Spine Anims - Outdoor
+	Barrel
+		Break
+		Idle
+	Butterfly
+		fly
+		idle
+	Chimney
+		chimney_lit
+		chimney_unlit
+	Crate
+		Break
+		Idle
+	Streetlamp
+		hanginglamp_off
+		hanginglamp_on
+		streetlamp_off
+		streetlamp_on
+	Treasure Chest
+		closed_idle_gold
+		closed_idle_silver
+		open_gold
+		open_idle_gold
+		open_idle_silver
+		open_silver

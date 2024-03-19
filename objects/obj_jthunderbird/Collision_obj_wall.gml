@@ -1,0 +1,1 @@
+move_and_collide(0, 0, obj_wall,4,0,0,-1,-1);
