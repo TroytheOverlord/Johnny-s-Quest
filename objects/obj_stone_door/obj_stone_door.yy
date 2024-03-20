@@ -6,8 +6,8 @@
   "name":"obj_stone_door",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"collisions",
+    "path":"folders/Objects/collisions.yy",
   },
   "parentObjectId":null,
   "persistent":false,

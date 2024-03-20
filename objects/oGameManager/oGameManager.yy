@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_stone_window",
-  "eventList":[],
+  "%Name":"oGameManager",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_stone_window",
+  "name":"oGameManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"collisions",
-    "path":"folders/Objects/collisions.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprBuilding_Window_Stone_Dark_Shadow",
-    "path":"sprites/sprBuilding_Window_Stone_Dark_Shadow/sprBuilding_Window_Stone_Dark_Shadow.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

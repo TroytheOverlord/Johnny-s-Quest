@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"obj_coins",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_jthunderbird","path":"objects/obj_jthunderbird/obj_jthunderbird.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_coins",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"collectables",
+    "path":"folders/Objects/collectables.yy",
   },
   "parentObjectId":null,
   "persistent":false,
